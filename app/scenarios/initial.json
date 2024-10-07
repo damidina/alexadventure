@@ -1,0 +1,9 @@
+{
+  "total_scenarios": 5,
+  "scenario": "You find yourself in a dark forest. The path splits in three directions.",
+  "options": [
+    {"text": "Go left", "next": "left_path"},
+    {"text": "Go right", "next": "right_path"},
+    {"text": "Go straight", "next": "straight_path"}
+  ]
+}

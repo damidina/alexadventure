@@ -1,0 +1,8 @@
+{
+  "scenario": "You come across an old cabin. Do you:",
+  "options": [
+    {"text": "Enter the cabin", "next": "enter_cabin"},
+    {"text": "Knock on the door", "next": "knock_door"},
+    {"text": "Circle around the cabin", "next": "circle_cabin"}
+  ]
+}

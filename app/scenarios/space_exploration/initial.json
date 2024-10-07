@@ -1,0 +1,9 @@
+{
+  "question": "You're the head of a space agency in 1961. The space race has begun. What's your priority?",
+  "options": [
+    {"text": "Focus on getting a man in space", "next": "man_in_space"},
+    {"text": "Develop satellite technology", "next": "satellites"},
+    {"text": "Plan for a moon landing", "next": "moon_landing"},
+    {"text": "Explore Mars with robotic missions", "next": "mars_exploration"}
+  ]
+}

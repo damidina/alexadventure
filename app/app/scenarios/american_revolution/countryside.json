@@ -1,0 +1,10 @@
+{
+  "question": "You've fled to the countryside. How do you contribute to the revolutionary cause from here?",
+  "options": [
+    {"text": "Start a guerrilla resistance group", "next": "guerrilla"},
+    {"text": "Establish a safe house for rebels", "next": "safe_house"},
+    {"text": "Become a messenger for the Continental Army", "next": "messenger"},
+    {"text": "Organize a network of rebel farmers", "next": "farmer_network"},
+    {"text": "Set up a secret weapons cache", "next": "weapons_cache"}
+  ]
+}

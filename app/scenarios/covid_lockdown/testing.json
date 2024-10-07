@@ -1,0 +1,9 @@
+{
+  "question": "You've ramped up testing capacity. What's your next focus?",
+  "options": [
+    {"text": "Implement contact tracing", "next": "contact_tracing"},
+    {"text": "Set up drive-through testing centers", "next": "drive_through"},
+    {"text": "Develop a national COVID-19 database", "next": "database"},
+    {"text": "Prioritize testing for essential workers", "next": "essential_workers"}
+  ]
+}

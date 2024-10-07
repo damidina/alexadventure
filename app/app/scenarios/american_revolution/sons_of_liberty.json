@@ -1,0 +1,10 @@
+{
+  "question": "As a member of the Sons of Liberty, you're tasked with a crucial mission. What do you choose to do?",
+  "options": [
+    {"text": "Organize a secret meeting of revolutionary leaders", "next": "secret_meeting"},
+    {"text": "Sabotage British supply lines", "next": "sabotage"},
+    {"text": "Recruit more colonists to the cause", "next": "recruitment"},
+    {"text": "Establish a network of spies", "next": "spy_network"},
+    {"text": "Plan a public demonstration against British rule", "next": "demonstration"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "question": "You are a colonist in Boston in 1773. The British have just imposed the Tea Act. What do you do?",
+  "options": [
+    {"text": "Participate in the Boston Tea Party", "next": "tea_party"},
+    {"text": "Boycott British goods", "next": "boycott"},
+    {"text": "Write protest letters", "next": "letters"},
+    {"text": "Join a secret revolutionary society", "next": "secret_society"}
+  ]
+}

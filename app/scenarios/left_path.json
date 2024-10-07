@@ -1,0 +1,8 @@
+{
+  "scenario": "You encounter a rushing river. What do you do?",
+  "options": [
+    {"text": "Try to swim across", "next": "swim_river"},
+    {"text": "Look for a bridge", "next": "find_bridge"},
+    {"text": "Follow the river downstream", "next": "follow_river"}
+  ]
+}

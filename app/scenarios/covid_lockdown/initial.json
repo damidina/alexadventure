@@ -1,0 +1,9 @@
+{
+  "question": "It's March 2020, and COVID-19 is spreading rapidly. As a government official, what's your first action?",
+  "options": [
+    {"text": "Implement a nationwide lockdown", "next": "lockdown"},
+    {"text": "Increase testing capacity", "next": "testing"},
+    {"text": "Close borders", "next": "borders"},
+    {"text": "Invest in vaccine research", "next": "vaccine_research"}
+  ]
+}

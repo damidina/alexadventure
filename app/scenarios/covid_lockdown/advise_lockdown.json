@@ -1,0 +1,8 @@
+{
+  "scenario": "You've advised on lockdown measures. The President is considering your recommendations. What aspect do you emphasize?",
+  "options": [
+    {"text": "Economic impact", "next": "economic_impact"},
+    {"text": "Public health benefits", "next": "health_benefits"},
+    {"text": "Duration and exit strategy", "next": "exit_strategy"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "question": "Your first manned space flight is successful. What's your next goal?",
+  "options": [
+    {"text": "Achieve orbital flight", "next": "orbital_flight"},
+    {"text": "Conduct spacewalks", "next": "spacewalks"},
+    {"text": "Develop a space station", "next": "space_station"},
+    {"text": "Plan for interplanetary travel", "next": "interplanetary"}
+  ]
+}

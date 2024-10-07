@@ -1,0 +1,9 @@
+{
+  "question": "You've participated in the Boston Tea Party. The British respond with the Intolerable Acts. What's your next move?",
+  "options": [
+    {"text": "Join the Sons of Liberty", "next": "sons_of_liberty"},
+    {"text": "Flee to the countryside", "next": "countryside"},
+    {"text": "Try to negotiate with British officials", "next": "negotiate"},
+    {"text": "Organize local militia", "next": "organize_militia"}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "scenario": "You successfully warn Adams and Hancock. They suggest you continue spreading the word. What's your next move?",
+  "options": [
+    {"text": "Begin the midnight ride", "next": "midnight_ride"},
+    {"text": "Send others to warn nearby towns", "next": "send_others"},
+    {"text": "Stay to protect the leaders", "next": "protect_leaders"}
+  ]
+}

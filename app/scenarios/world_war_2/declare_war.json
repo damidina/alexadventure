@@ -1,0 +1,9 @@
+{
+  "question": "You've declared war on Germany. What's your first strategic move?",
+  "options": [
+    {"text": "Launch a naval blockade", "next": "naval_blockade"},
+    {"text": "Send troops to France", "next": "troops_to_france"},
+    {"text": "Initiate bombing raids on German cities", "next": "bombing_raids"},
+    {"text": "Focus on protecting British colonies", "next": "protect_colonies"}
+  ]
+}

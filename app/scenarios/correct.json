@@ -1,0 +1,8 @@
+{
+  "question": "Correct! Next question: What is the capital of France?",
+  "options": [
+    {"text": "London", "next": "incorrect"},
+    {"text": "Berlin", "next": "incorrect"},
+    {"text": "Paris", "next": "correct"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "question": "You've organized a local militia. The British are approaching. How do you prepare?",
+  "options": [
+    {"text": "Set up ambush points", "next": "ambush"},
+    {"text": "Train in guerrilla tactics", "next": "guerrilla_training"},
+    {"text": "Fortify the town", "next": "fortify"},
+    {"text": "Send for reinforcements from nearby towns", "next": "reinforcements"},
+    {"text": "Evacuate civilians and prepare for a siege", "next": "siege"}
+  ]
+}

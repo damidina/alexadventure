@@ -1,0 +1,9 @@
+{
+  "question": "It's 1939, and Germany has just invaded Poland. As the British Prime Minister, what do you do?",
+  "options": [
+    {"text": "Declare war on Germany", "next": "declare_war"},
+    {"text": "Seek diplomatic solutions", "next": "diplomacy"},
+    {"text": "Prepare for defense", "next": "prepare_defense"},
+    {"text": "Form alliances with other nations", "next": "form_alliances"}
+  ]
+}

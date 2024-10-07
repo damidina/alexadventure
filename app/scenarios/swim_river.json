@@ -1,0 +1,8 @@
+{
+  "scenario": "The current is strong, but you manage to cross. You're now on the other side, soaking wet.",
+  "options": [
+    {"text": "Look for shelter to dry off", "next": "find_shelter"},
+    {"text": "Continue on your journey wet", "next": "continue_wet"},
+    {"text": "Try to start a fire", "next": "start_fire"}
+  ]
+}

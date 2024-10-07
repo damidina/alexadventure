@@ -1,0 +1,10 @@
+{
+  "question": "Your attempt to negotiate with British officials has failed. They're now suspicious of you. What's your next move?",
+  "options": [
+    {"text": "Publicly declare your loyalty to the crown", "next": "false_loyalty"},
+    {"text": "Join the Continental Army in secret", "next": "secret_enlistment"},
+    {"text": "Flee to another colony", "next": "flee_colony"},
+    {"text": "Become a double agent", "next": "double_agent"},
+    {"text": "Organize a peaceful protest", "next": "peaceful_protest"}
+  ]
+}

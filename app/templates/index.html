@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story Challenge</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div id="app">
+        <div id="challenge-container">
+            <div id="custom-scenario">
+                <input type="text" id="name-input" placeholder="Enter your name">
+                <input type="text" id="scenario-input" placeholder="Enter a scenario">
+                <button id="generate-btn">Generate</button>
+            </div>
+            <div id="scenarios-grid">
+                <div class="scenario-item" data-scenario="american_revolution">
+                    <div class="placeholder-image"></div>
+                    <button class="scenario-btn">American Revolution</button>
+                </div>
+                <div class="scenario-item" data-scenario="covid_lockdown">
+                    <div class="placeholder-image"></div>
+                    <button class="scenario-btn">COVID-19 Lockdown</button>
+                </div>
+                <div class="scenario-item" data-scenario="world_war_2">
+                    <div class="placeholder-image"></div>
+                    <button class="scenario-btn">World War II</button>
+                </div>
+                <div class="scenario-item" data-scenario="space_exploration">
+                    <div class="placeholder-image"></div>
+                    <button class="scenario-btn">Space Exploration</button>
+                </div>
+            </div>
+            <button id="start-btn" class="start-btn">Pick Random</button>
+            <div id="progress">1 of 20</div>
+            <div id="question"></div>
+            <div id="options"></div>
+        </div>
+    </div>
+    <script>
+    </script>
+</body>
+</html>

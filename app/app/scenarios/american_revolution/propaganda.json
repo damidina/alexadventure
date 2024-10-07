@@ -1,0 +1,10 @@
+{
+  "question": "You've decided to spread propaganda against British rule. What method do you choose?",
+  "options": [
+    {"text": "Write and distribute pamphlets", "next": "pamphlets"},
+    {"text": "Organize public speeches", "next": "speeches"},
+    {"text": "Create political cartoons", "next": "cartoons"},
+    {"text": "Start a secret newspaper", "next": "newspaper"},
+    {"text": "Use coded messages in popular songs", "next": "coded_songs"}
+  ]
+}

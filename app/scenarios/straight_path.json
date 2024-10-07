@@ -1,0 +1,8 @@
+{
+  "scenario": "You reach a clearing with a strange stone circle. What's your next move?",
+  "options": [
+    {"text": "Investigate the stones", "next": "investigate_stones"},
+    {"text": "Set up camp nearby", "next": "setup_camp"},
+    {"text": "Leave the area quickly", "next": "leave_area"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "question": "The lockdown is in place. How do you address the economic impact?",
+  "options": [
+    {"text": "Provide stimulus checks to citizens", "next": "stimulus"},
+    {"text": "Offer loans to small businesses", "next": "business_loans"},
+    {"text": "Implement a job retention scheme", "next": "job_retention"},
+    {"text": "Invest in digital infrastructure", "next": "digital_infrastructure"}
+  ]
+}

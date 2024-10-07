@@ -1,0 +1,8 @@
+{
+  "question": "You're a factory owner in the early 1800s. How do you approach the changing industrial landscape?",
+  "options": [
+    {"text": "Invest in steam power", "next": "steam_power"},
+    {"text": "Focus on textile manufacturing", "next": "textiles"},
+    {"text": "Develop new transportation methods", "next": "transportation"}
+  ]
+}

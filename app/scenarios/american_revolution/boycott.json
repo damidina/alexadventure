@@ -1,0 +1,9 @@
+{
+  "question": "Your boycott of British goods is gaining traction. What do you focus on next?",
+  "options": [
+    {"text": "Expand the boycott to other colonies", "next": "expand_boycott"},
+    {"text": "Start manufacturing alternatives locally", "next": "local_manufacturing"},
+    {"text": "Petition the king for representation", "next": "petition_king"},
+    {"text": "Organize underground trade networks", "next": "underground_trade"}
+  ]
+}
